@@ -1,3 +1,5 @@
 Initial content
 Remote change 1
 Remote change 2
+Local change 2
+Local update 2
